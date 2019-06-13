@@ -1,0 +1,14 @@
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\bin\Debug\netcoreapp2.0\Protobuf_Client.deps.json
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\bin\Debug\netcoreapp2.0\Protobuf_Client.runtimeconfig.json
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\bin\Debug\netcoreapp2.0\Protobuf_Client.runtimeconfig.dev.json
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\bin\Debug\netcoreapp2.0\Protobuf_Client.dll
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\bin\Debug\netcoreapp2.0\Protobuf_Client.pdb
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\obj\Debug\netcoreapp2.0\Protobuf_Client.csprojResolveAssemblyReference.cache
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\obj\Debug\netcoreapp2.0\Protobuf_Client.csproj.CoreCompileInputs.cache
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\obj\Debug\netcoreapp2.0\Protobuf_Client.AssemblyInfoInputs.cache
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\obj\Debug\netcoreapp2.0\Protobuf_Client.AssemblyInfo.cs
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\obj\Debug\netcoreapp2.0\Protobuf_Client.dll
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\obj\Debug\netcoreapp2.0\Protobuf_Client.pdb
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\bin\Debug\netcoreapp2.0\protobuf-net.dll
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\bin\Debug\netcoreapp2.0\protobuf-net.pdb
+C:\Users\79032\Desktop\新建文件夹 (2)\Protobuf_Client\Protobuf_Client\bin\Debug\netcoreapp2.0\protobuf-net.xml
